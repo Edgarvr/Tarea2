@@ -1,0 +1,15 @@
+body{
+	text-align: center;
+	background-color: green;
+	width: 700px;
+	margin: auto;
+}
+
+#segundo{
+	color: orange;
+}
+
+ul{
+	font-family: "Calibri";
+	font-size: 20px;
+}
